@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![box](https://user-images.githubusercontent.com/45978346/134809211-8aa40ea3-2e42-433c-9e78-f62a668e9fdc.png)
 
-#### <p align="center">Greetings! I'm jonkke8 or often just called jonkke. I'm a 14 year old male from Finland looking to have fun and learn stuff. </p>
+#### <p align="center">I'm a 14 year old male from Finland looking to have fun and learn stuff. </p>
 ![bar-dark](https://user-images.githubusercontent.com/45978346/134806545-6c83cb49-f025-4c02-8d28-2348665d7ff5.png)
 ### Stuff
    * OS: Archcraft
